@@ -39,7 +39,7 @@ Many links should provide you with additionnal info to see my point of view:
 
 ### How to use
 ```
-docker run -d -p 80:8043 -v path/to/website:/srv/http --name goStatic pierrezemb/gostatic
+docker run -d -p 80:8043 -v path/to/website:/srv/http --name goStatic wlchn/gostatic
 ```
 
 ### Usage 
