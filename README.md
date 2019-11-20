@@ -1,4 +1,8 @@
-# goStatic [![Docker Pulls](https://img.shields.io/docker/pulls/wlchn/gostatic.svg?style=flat)](https://hub.docker.com/r/wlchn/gostatic/) [![Docker Build](https://img.shields.io/docker/cloud/automated/wlchn/gostatic.svg?style=flat)](https://hub.docker.com/r/wlchn/gostatic/)
+# goStatic 
+[![Docker Pulls](https://img.shields.io/docker/pulls/wlchn/gostatic.svg?style=flat)](https://hub.docker.com/r/wlchn/gostatic/) 
+[![Docker Cloud Automated build](https://img.shields.io/docker/cloud/automated/wlchn/gostatic.svg?style=flat)](https://hub.docker.com/r/wlchn/gostatic/)
+[![Docker Cloud Build Status](https://img.shields.io/docker/cloud/build/wlchn/gostatic.svg)](https://hub.docker.com/r/wlchn/gostatic)
+
 Forked from PierreZ/goStatic, changed the base image from `scratch` to `alpine`, so that we can use sh in it, but still keep small.
 
 
